@@ -1,5 +1,5 @@
 # Smol-Stealth-Burner-V0.1-Mod
-This Smol stealth burner does not loose any X,Y or X travel and has all best features I wanted in a Smol hotend.
+This Smol stealth burner does not lose any X,Y or X travel and has all best features I wanted in a Smol hotend.
 I would say this is an intermediate build.You will need knowledge of soldering as well as wiring in general. You will need to work with small objects that can be a pain for unsteady hands. please keep this in mind.
 ***************************I AM NOT RESPONSIBLE FOR ANY DAMAGES TO YOUR PRINTER. PERFORM THIS MOD AT YOUR OWN RISK.**************************
 
