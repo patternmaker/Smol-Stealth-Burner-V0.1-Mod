@@ -1,6 +1,6 @@
 # Smol-Stealth-Burner-V0.1-Mod
 This Smol stealth burner does not lose any X,Y or Z travel. This means on stock V0.1 you don't need new bed mounts and you don't need to remove your stock bed. It has all best features I wanted in a Smol hotend without taking apart half your printer!
-<img width="390" alt="Screen Shot 2022-04-30 at 11 13 34 PM" src="https://user-images.githubusercontent.com/79613562/166131947-33bcac25-3af6-45ab-9c28-7ed126ecd6a3.png">
+![](./Images/SSB.png)
 
 # License:
 https://github.com/VoronDesign/Voron-0/blob/Voron0.1/LICENSE
