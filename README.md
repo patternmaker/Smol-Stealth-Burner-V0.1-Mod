@@ -28,11 +28,11 @@ Currently ONLY LGX lite with dragon is supported if I have time I may help someo
 4. Tin the back side of the pogo pins. A little is all you need don't overdue it. The sides that do not have a spring pin or are indented. They should be FLAT.
 5. Tin the negative and positive hotend fan ends. A little is all you need don't overdue it. Solder the hotend fan negative and positive two the back of pogo pins where you tinned. 
 6. Twist both part cooling fan negatives wires together and repeat for positive. Tin these twisted wires. A little is all you need don't overdue it. Next Solder them to the two pins that are left on the pogo pins.. TO be on the safe side make sure negatives are next to each other so that if you are sloppy at least the wires are grounded.
-![IMG-2502](https://user-images.githubusercontent.com/79613562/166089507-52f51ce7-0b73-4d56-b486-0e93b6b38841.jpg)
+![](./Images/Assembly_2.jpg)
 8. Repeat these steps for the hotend mount side. Making sure to wire in one to one with the other. Meaning hotend fan positive lines up with hotend postive, Hotend negative lines with negative. Same goes for the part cooling fans. Double and triple Check. This is easy to mess up. Dont fry your poor 5v hotend fan.
 9. Once you verified it is wired correctly Apply liquid electrical tape. This is for safety last thing we need is exposed wires and solder flying around at 100mm/s coming loose and touching. This seals but also insulates all your work.
 10. Now these connectors should press in to the provided channels with the pogos facing each other.
-![IMG-2503](https://user-images.githubusercontent.com/79613562/166089518-bcb72818-4b41-4a65-9b6a-d72316ce92fc.jpg)
+![](./Images/Assembly_1.jpg)
 Voilà you now have an easy to work on hotend you have made it this far grab a cookie or take a drink.
 They should pull to each other and make contact.
 
