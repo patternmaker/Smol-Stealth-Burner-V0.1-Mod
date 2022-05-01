@@ -39,7 +39,7 @@ They should pull to each other and make contact.
 
 https://user-images.githubusercontent.com/79613562/166131300-c08337b3-4567-493e-8fda-4b07024be8ec.mov
 
-![unnamed](https://user-images.githubusercontent.com/79613562/166131909-7d5fce37-40c4-41b1-ae00-9c4e4d590102.jpg)
+![](./Images/installed.jpg)
 
 Klipper does not like when certain things aren't connected so if you get an error make sure the pogos are connected when turning on your printer. Safety first klipper well done.
 Thanks to @MAVERICK on discord for the inspiraion and guidance. Check out all the cool work he has done. https://github.com/PrintersForAnts/Crucible
