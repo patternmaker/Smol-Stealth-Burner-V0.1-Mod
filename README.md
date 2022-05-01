@@ -11,8 +11,10 @@ Currently ONLY LGX lite with dragon is supported if I have time I may help someo
 1. Two M3x35mm, Two M3x20mm socket or cap screws to screw in LGX Lite, two M2.5x4mm hotend mounting bolts socket or cap works.
 2. A set of pogo pins. You will need to select. 4PIN SMD MALE AND FEMALE and I opted to buy more to have as spares testing I have no issues and they are rated to have enough to power the fans. https://www.aliexpress.com/item/1005003511237426.html?spm=a2g0o.productlist.0.0.19ef6d67f3sBNk&algo_pvid=a7257952-b1d4-4948-9495-a111bfa022f6&aem_p4p_detail=202204292020154509380800919520001935181&algo_exp_id=a7257952-b1d4-4948-9495-a111bfa022f6-4&pdp_ext_f=%7B%22sku_id%22%3A%2212000026116527374%22%7D&pdp_npi=1%40dis%7CUSD%7C%7C1.35%7C%7C%7C3.83%7C%7C%40210318b916512888151663045ed553%7C12000026116527374%7Csea
 3. A fine tip Soldering iron. Trust me this will not be fun without it.
-4. Liquid electrical tape. Yes it is a thing.
+4. Four 6x3mm magnets like all cool voron mods use.
+5. Liquid electrical tape. Yes it is a thing.
 
+The magnets should have a press fit into the printed parts some might need glue from going too far in.
 
 Steps for assemble cowling and mount with pogo pins.
 1. Make sure you have no connectors attached to your fans.
