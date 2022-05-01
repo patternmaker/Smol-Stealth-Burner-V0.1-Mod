@@ -37,7 +37,7 @@ Voilà you now have an easy to work on hotend you have made it this far grab a c
 They should pull to each other and make contact.
 
 
-https://user-images.githubusercontent.com/79613562/166131300-c08337b3-4567-493e-8fda-4b07024be8ec.mov
+![](./Images/POGO_Pins_video.mov)
 
 ![](./Images/installed.jpg)
 
