@@ -36,8 +36,7 @@ Currently ONLY LGX lite with dragon is supported if I have time I may help someo
 Voilà you now have an easy to work on hotend you have made it this far grab a cookie or take a drink.
 They should pull to each other and make contact.
 
-
-![](./Images/POGO_Pins_video.mov)
+Pogo_pins_video.mov
 
 ![](./Images/installed.jpg)
 
