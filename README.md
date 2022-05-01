@@ -29,5 +29,10 @@ Steps for assemble cowling and mount with pogo pins.
 Voilà you now have an easy to work on hotend you have made it this far grab a cookie or take a drink.
 They should pull to each other and make contact.
 
+
+https://user-images.githubusercontent.com/79613562/166131300-c08337b3-4567-493e-8fda-4b07024be8ec.mov
+
+
+
 Klipper does not like when certain things aren't connected so if you get an error make sure the pogos are connected when turning on your printer. Safety first klipper well done.
 Thanks to @MAVERICK on discord for the inspiraion and guidance. Check out all the cool work he has done. https://github.com/PrintersForAnts/Crucible
