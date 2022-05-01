@@ -1,9 +1,10 @@
 # Smol-Stealth-Burner-V0.1-Mod
-This Smol stealth burner does not lose any X,Y or Z travel and has all best features I wanted in a Smol hotend.
-I would say this is an intermediate build.You will need knowledge of soldering as well as wiring in general. You will need to work with small objects that can be a pain for unsteady hands. please keep this in mind.
+This Smol stealth burner does not lose any X,Y or Z travel. This means on stock V0.1 you don't need new bed mounts and remove your stock bed. It has all best features I wanted in a Smol hotend without taking apart half your printer!
+I would say this is an intermediate build. You will need knowledge of soldering as well as wiring in general. You will need to work with small objects that can be a pain for unsteady hands. please keep this in mind.
+
 ***************************I AM NOT RESPONSIBLE FOR ANY DAMAGES TO YOUR PRINTER. PERFORM THIS MOD AT YOUR OWN RISK.**************************
 
-Print settings are standard Voron settings. The only exception is the X carraige. This will need support. No way around it. You want the full x,y travel? Sacrafices have to be made. Don't worry its not a lot and should come off easy if they are dialed in.
+Print settings are standard Voron settings. The only exception is the X carraige. This will need support. There are two X carraige types. One with auto generated support and one without. I recommend printing the one without but if you don't trust your slicer use the one with. No way around it. You want the full x,y travel? Sacrafices have to be made. Don't worry its not a lot and should come off easy if they are dialed in.
 
 Here is a list of the Items that you will need to compelete this build.
 Currently ONLY LGX lite with dragon is supported if I have time I may help someone adapt other extruders and or hotends.
@@ -34,7 +35,9 @@ They should pull to each other and make contact.
 
 https://user-images.githubusercontent.com/79613562/166131300-c08337b3-4567-493e-8fda-4b07024be8ec.mov
 
+![unnamed](https://user-images.githubusercontent.com/79613562/166131909-7d5fce37-40c4-41b1-ae00-9c4e4d590102.jpg)
 
+<img width="390" alt="Screen Shot 2022-04-30 at 11 13 34 PM" src="https://user-images.githubusercontent.com/79613562/166131947-33bcac25-3af6-45ab-9c28-7ed126ecd6a3.png">
 
 Klipper does not like when certain things aren't connected so if you get an error make sure the pogos are connected when turning on your printer. Safety first klipper well done.
 Thanks to @MAVERICK on discord for the inspiraion and guidance. Check out all the cool work he has done. https://github.com/PrintersForAnts/Crucible
