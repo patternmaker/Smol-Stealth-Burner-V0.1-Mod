@@ -2,11 +2,11 @@
 This Smol stealth burner does not lose any X,Y or Z travel. This means on stock V0.1 you don't need new bed mounts and remove your stock bed. It has all best features I wanted in a Smol hotend without taking apart half your printer!
 I would say this is an intermediate build. You will need knowledge of soldering as well as wiring in general. You will need to work with small objects that can be a pain for unsteady hands. please keep this in mind.
 
-***************************I AM NOT RESPONSIBLE FOR ANY DAMAGES TO YOUR PRINTER. PERFORM THIS MOD AT YOUR OWN RISK.**************************
+# I AM NOT RESPONSIBLE FOR ANY DAMAGES TO YOUR PRINTER. PERFORM THIS MOD AT YOUR OWN RISK.
 
 Print settings are standard Voron settings. The only exception is the X carraige. This will need support. There are two X carraige types. One with auto generated support and one without. I recommend printing the one without but if you don't trust your slicer use the one with. No way around it. You want the full x,y travel? Sacrafices have to be made. Don't worry its not a lot and should come off easy if they are dialed in.
 
-Here is a list of the Items that you will need to compelete this build.
+# Here is a list of the Items that you will need to compelete this build.
 Currently ONLY LGX lite with dragon is supported if I have time I may help someone adapt other extruders and or hotends.
 
 1. Two M3x35mm, Two M3x20mm socket or cap screws to screw in LGX Lite, two M2.5x4mm hotend mounting bolts socket or cap works.
@@ -15,9 +15,8 @@ Currently ONLY LGX lite with dragon is supported if I have time I may help someo
 4. Four 6x3mm magnets like all cool voron mods use.
 5. Liquid electrical tape. Yes it is a thing.
 
-The magnets should have a press fit into the printed parts some might need glue from going too far in.
-
-Steps for assemble cowling and mount with pogo pins.
+# Steps for assemble cowling and mount with pogo pins.
+  The magnets should have a press fit into the printed parts some might need glue from going too far in.
 1. Make sure you have no connectors attached to your fans.
 2.Start by feeding the cables through the channels I have made in the Cowling. Photos to show if your wires are too big cut them with some EXTRA INCASE YOU MESS UP. Dont worry there is plenty of space to hide them. :)
 3. Cut a length of what you need to reach from the pogo pins to whatever setup your running. That means to reach your printer board. In the photos I am using the umbilical PCB by Timmit. Link: https://github.com/VoronDesign/Voron-Hardware/tree/master/V0-Umbilical I used approx 110mm of PTFE cable.
