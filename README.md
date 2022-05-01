@@ -11,7 +11,7 @@ I would say this is an intermediate build. You will need knowledge of soldering 
 
 Print settings are standard Voron settings. The only exception is the X carraige. This will need support. There are two X carraige types. One with auto generated support and one without. I recommend printing the one without but if you don't trust your slicer use the one with. No way around it. You want the full x,y travel? Sacrafices have to be made. Don't worry its not a lot and should come off easy if they are dialed in.
 
-# Here is a list of the Items that you will need to compelete this build.
+# BOM
 Currently ONLY LGX lite with dragon is supported if I have time I may help someone adapt other extruders and or hotends.
 
 1. Two M3x35mm, Two M3x20mm socket or cap screws to screw in LGX Lite, two M2.5x4mm hotend mounting bolts socket or cap works.
